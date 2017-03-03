@@ -7,6 +7,27 @@ programming language with both textual and graphical syntaxes.
 
 for more info: http://ballerinalang.org/
 
+## How to install
+
+#### Install via Brackets Extention Manager
+
+1. Open Brackets, and click the extensions button on the right panel or navigate to "File > Extension Manager". 
+2. Select "Available" tab and search for 'Ballerina' and click "Install".
+
+#### Install manually
+
+1. Visit [http://brackets.dnbard.com/extension/ballerina-extension](http://brackets.dnbard.com/extension/ballerina-extension) and download the latest version.
+2. Open brackets and navigate to "File > Extension Manager",
+
+* Drag & drop
+   * Drag & drop the downloaded zip file in "Drag.zip here"
+   * Done.
+
+* From url
+   * Click on "Install form URL..."
+   * Copy and paste following URL in the text field: [https://s3.amazonaws.com/extend.brackets/ballerina-extension/ballerina-extension-1.0.0.zip](https://s3.amazonaws.com/extend.brackets/ballerina-extension/ballerina-extension-1.0.0.zip).
+   * Click "Install".
+
 ## How to contribute
 
 Pull requests are highly encouraged and we recommend you to create a GitHub issue
