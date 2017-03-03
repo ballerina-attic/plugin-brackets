@@ -20,7 +20,7 @@ for more info: http://ballerinalang.org/
 2. Open brackets and navigate to "_File > Extension Manager_",
 
 * Drag & drop
-   * Drag & drop the downloaded zip file in `Drag.zip here`
+   * Drag & drop the downloaded zip file on `Drag.zip here`
    * Done.
 
 * From url
