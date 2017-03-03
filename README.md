@@ -16,7 +16,7 @@ for more info: http://ballerinalang.org/
 
 #### Install via URL
 
-1. Visit [http://brackets.dnbard.com/extension/ballerina-extension](http://brackets.dnbard.com/extension/ballerina-extension) and download the latest version.
+1. Visit http://brackets.dnbard.com/extension/ballerina-extension and download the latest version.
 2. Open brackets and navigate to "_File > Extension Manager_",
 
 * Drag & drop
@@ -25,7 +25,7 @@ for more info: http://ballerinalang.org/
 
 * From url
    * Click on `Install form URL...`
-   * Copy and paste the download URL of the zip file _E.g. https://s3.amazonaws.com/extend.brackets/ballerina-extension/ballerina-extension-1.0.0.zip_.
+   * Copy and paste the download URL of the zip file `_E.g. https://s3.amazonaws.com/extend.brackets/ballerina-extension/ballerina-extension-1.0.0.zip_`.
    * Click "Install".
 
 ## How to contribute
