@@ -1,7 +1,7 @@
 {
     "name": "ballerina-extension",
     "title": "Ballerina",
-    "description": "File Format Support for WSO2 Ballerina Development Environment (http://ballerinalang.org/)",
+    "description": "Syntax Highlighting Support for WSO2 Ballerina (http://ballerinalang.org/)",
     "version": "1.0.0",
     "author": "WSO2",
     "license": "Apache 2.0 License",
@@ -11,7 +11,7 @@
     "i18n": [ "en"],
     "package-i18n": {
         "en": {
-            "description": "File Format Support for WSO2 Ballerina Development Environment (http://ballerinalang.org/)"
+            "description": "Syntax Highlighting Support for WSO2 Ballerina (http://ballerinalang.org/)"
         }
     }
 }
