@@ -7,11 +7,5 @@
     "license": "Apache 2.0 License",
     "engines": {
         "brackets": ">=1.6.0"
-    },
-    "i18n": [ "en"],
-    "package-i18n": {
-        "en": {
-            "description": "Syntax Highlighting Support for WSO2 Ballerina (http://ballerinalang.org/)"
-        }
     }
 }
