@@ -1,9 +1,9 @@
 {
     "name": "ballerina-extension",
-    "title": "Ballerina Brackets Extension",
+    "title": "Ballerina",
     "description": "File Format Support for WSO2 Ballerina Development Environment (http://ballerinalang.org/)",
     "version": "1.0.0",
-    "author": "WSO2 (http://wso2.com/)",
+    "author": "WSO2",
     "license": "Apache 2.0 License",
     "engines": {
         "brackets": ">=1.6.0"
