@@ -25,7 +25,7 @@ for more info: http://ballerinalang.org/
 
 * From url
    * Click on `Install form URL...`
-   * Copy and paste following URL in the text field: [https://s3.amazonaws.com/extend.brackets/ballerina-extension/ballerina-extension-1.0.0.zip](https://s3.amazonaws.com/extend.brackets/ballerina-extension/ballerina-extension-1.0.0.zip).
+   * Copy and paste the download URL of the zip file _E.g. https://s3.amazonaws.com/extend.brackets/ballerina-extension/ballerina-extension-1.0.0.zip_.
    * Click "Install".
 
 ## How to contribute
